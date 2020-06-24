@@ -37,6 +37,11 @@ body{
 	background-image: url("img2.png");
 	background-size: 100%;
 }
+p {
+	background: #528FD5;
+	overflow:hidden;
+
+}
 
 footer{
 	background: #000;
