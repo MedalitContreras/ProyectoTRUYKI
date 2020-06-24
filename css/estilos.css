@@ -23,6 +23,19 @@ h2{
 }
 body{
 	background: #e6e6e6;
+	margin: 0;
+	padding: 0;
+	background-image: url("img1.png");
+	background-size: 100%;
+}
+
+.trans{
+	margin: 0 auto;
+	width: 900px;
+	height: 400px;
+	border: 1px #e6e6e6;
+	background-image: url("img2.png");
+	background-size: 100%;
 }
 
 footer{
