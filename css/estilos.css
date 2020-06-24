@@ -24,3 +24,13 @@ h2{
 body{
 	background: #e6e6e6;
 }
+
+footer{
+	background: #000;
+	color: #fff;
+	clear: both;
+	padding: 10px;
+	text-align: center;
+
+ 
+}
