@@ -24,7 +24,11 @@ h2{
 body{
 	background: #e6e6e6;
 }
+p {
+	background: #528FD5;
+	overflow:hidden;
 
+}
 
 footer{
 	background: #000;
